@@ -1,0 +1,43 @@
+body
+{
+	magrin:0 auto;
+	background-image: url("download.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 900px;
+	
+}
+.container{
+	width:500px;
+	height:500px;
+	text-align:center;
+	background-color:gray;
+	border-radius:4px;
+	margin:0 auto;
+	margin-top:150px;	
+}
+.container img{
+	width:120px;
+	height:120px;
+	margin-top:-60px;
+	margin-bottom:30px;
+}
+input[type="text"],input[type="password"]{
+	height:32px;
+	width:250px;
+	font-size:15px;
+	margin-bottom:20px;
+	background-color:#fff;
+	padding-left:30px;
+	
+}
+.btn-login{
+	padding:15px 25px;
+	color:#fff;
+	background-color:black;
+	border:none;
+	margin-bottom:20px;
+}
+a{
+	color:blue;
+	
+}
